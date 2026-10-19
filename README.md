@@ -44,7 +44,7 @@ which compatible models can be evaluated or used as agents and judges.
 ## Download the images
 
 First, clone or download this repository. Then download the task images from
-[Google Drive](https://drive.google.com/drive/folders/1Dh_z9gihBMg9K2EYLWs9zmHr-noWxzxx?usp=drive_link)
+[Google Drive](https://drive.google.com/drive/folders/1y5q_Ew8nUGFhd6SSpjCMQyArJiInMhMy?usp=drive_link)
 and place the image files in the repository's `image/` folder, beside `dataset.csv`.
 If the download is a ZIP archive, extract it first. Keep the original filenames
 and ensure the images are directly inside `image/`, rather than a nested folder.
